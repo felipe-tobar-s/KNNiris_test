@@ -1,2 +1,2 @@
 # KNNiris_test
-Algoritmo de K nearest neighbour aplicado al Iris dataset
+Algoritmo de K nearest neighbor aplicado al Iris dataset
